@@ -14,6 +14,9 @@ Welcome to **AlgoTradingPy**, a repository dedicated to algorithmic trading stra
 ## Getting Started
 To run and experiment with these strategies, you can use Google Colab or any other Python environment of your choice. Simply open the respective notebook in your preferred environment and follow the instructions provided within each notebook.
 
+## License
+This project is licensed under the [MIT License]([url](https://github.com/mahik2604/AlgoTradingPy/blob/main/LICENSE)).
+
 ## Note
 Please note that the strategies presented in this repository are for educational and demonstration purposes only. It is important to conduct thorough research and analysis before applying any trading strategies to real-world scenarios.
 
